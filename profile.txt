@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Chirag Gupte
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=Student at Hochschule Pforzheim, MBA-International Management
 
-title2=2024 National Teaching Award Laureate
+title2=Product Manager
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Digital Product Management,AI Applications, Agentic AI
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MBA-International Management, Hochschule Pforzheim
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y 
+email=guptechc@hs-pforzheim.de
+linkedin=https://www.linkedin.com/in/chirag-gupte-b941a868/  
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about1=Chirag Gupte earned his B.Tech from VJTI< Mumbai, India,
+about2=and his MBA from IIM Raipur.
+about3=Currently a Working Student at SAP Signavio
+about4= and pursing MBA-International Management at Hochschule Pforzheim
 
-phone=+886-2-2737-6754
+phone=+49-15511500751
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Hochschule Pforzheim, Pforzheim, Germany
